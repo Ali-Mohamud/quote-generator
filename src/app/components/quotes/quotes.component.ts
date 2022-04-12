@@ -18,28 +18,28 @@ export class QuotesComponent implements OnInit {
 
   ngOnInit(): void {
 
-    // this.quotes = [
-    //   {
-    //     content: '“Get busy living or get busy dying.” — Stephen King',
-    //     completed:false
-    //   },
+    this.quotes = [
+      {
+        content: '“Get busy living or get busy dying.” — Stephen King',
+        completed:false
+      },
 
-    //   {
+      // {
         
-    //       content: '“The purpose of our lives is to be happy.” — Dalai Lama',
-    //       completed:true
-    //     },
+      //     content: '“The purpose of our lives is to be happy.” — Dalai Lama',
+      //     completed:true
+      //   },
 
-    //     {
-    //       content: '“You only live once, but if you do it right, once is enough.” — Mae West',
-    //       completed:true
-    //     }
+      //   {
+      //     content: '“You only live once, but if you do it right, once is enough.” — Mae West',
+      //     completed:true
+      //   }
 
         
 
         
       
-    // ]
+    ]
   }
 
 
