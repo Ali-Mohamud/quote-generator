@@ -6,6 +6,13 @@ Application where users can create quotes and have those quotes voted on whether
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+## Technology used
+* HTML   - for structure of the web page and it's content.
+
+* CSS  -   for defining the styles of the web pages.
+
+* Angular - for dynamic webpages
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
