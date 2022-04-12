@@ -11,7 +11,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 * CSS  -   for defining the styles of the web pages.
 
-* Angular - for dynamic webpages
+* Typscript - for dynamic webpages
+
+
+* Angular 
 
 ## Code scaffolding
 
