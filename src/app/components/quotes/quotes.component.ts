@@ -30,10 +30,10 @@ export class QuotesComponent implements OnInit {
           completed:true
         },
 
-      //   {
-      //     content: '“You only live once, but if you do it right, once is enough.” — Mae West',
-      //     completed:true
-      //   }
+        {
+          content: '“You only live once, but if you do it right, once is enough.” — Mae West',
+          completed:true
+        }
 
         
 
