@@ -19,7 +19,7 @@ input{
     color: green;
 }
 
-/* button{
+button{
     color: red;
     padding: 0.5rem;
     border: none;
@@ -27,7 +27,7 @@ input{
 }
 
 
-.quote-submit{
+/* .quote-submit{
     margin-left: 1rem;
     padding: 0.5rem;
     border: none;
