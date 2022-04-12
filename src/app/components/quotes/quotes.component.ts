@@ -24,11 +24,11 @@ export class QuotesComponent implements OnInit {
         completed:false
       },
 
-      // {
+      {
         
-      //     content: '“The purpose of our lives is to be happy.” — Dalai Lama',
-      //     completed:true
-      //   },
+          content: '“The purpose of our lives is to be happy.” — Dalai Lama',
+          completed:true
+        },
 
       //   {
       //     content: '“You only live once, but if you do it right, once is enough.” — Mae West',
